@@ -1,1 +1,3 @@
-# ini adalah branch bar untuk belajar di di coding
+# ini adalah branch baru untuk belajar di dicoding
+--- 
+* blajar di dicoding asyikk lo
